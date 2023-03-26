@@ -1,6 +1,9 @@
-# Project
+# Moive Rater
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+This project demonstrates the basic angular topics.
+
+Fuctionality:-View rating for movies , Rate the movie according to your view
 
 ## Development server
 
