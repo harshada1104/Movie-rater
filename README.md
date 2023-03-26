@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 This project demonstrates the basic angular topics.
 
 Fuctionality:-View rating for movies , Rate the movie according to your view
-<img src="https://i.ibb.co/Zg5rQ2Q/Screenshot-21.png" width="300px" alt="Screenshot-21" border="0"></a>
+<img src="https://i.ibb.co/Zg5rQ2Q/Screenshot-21.png" width="600px" alt="Screenshot-21" border="0"></a>
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
